@@ -1,0 +1,25 @@
+{
+    "myInfo": {
+        "name": "Saurabh Chawla",
+        "studentId": "0838092",
+        "cityIAmFrom": "Delhi",
+        "age": 26,
+        "havePet": "No"
+    },
+    "myFavourites": {
+        "movies": [
+            "PK",
+            "KGF-Chapter1",
+            "KGF-Chapter2",
+            "Sultan",
+            "Qismat"
+        ],
+        "food": [
+            "Burger",
+            "Pizza",
+            "Dumplings",
+            "French Fries",
+            "Pasta"
+        ]
+    }
+}
